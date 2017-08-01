@@ -6,3 +6,4 @@ https://leetcode.com/atif93/
 [binary_tree_max_path_sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) <br>
 [reverse_string](https://leetcode.com/problems/reverse-string) <br>
 [two_sum](https://leetcode.com/problems/two-sum) <br>
+[reverse_integer](https://leetcode.com/problems/reverse-integer) <br>
