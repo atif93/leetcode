@@ -12,3 +12,7 @@ https://leetcode.com/atif93/
 [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) <br>
 [add-two-numbers](https://leetcode.com/problems/add-two-numbers) <br>
 [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) <br>
+[valid-parentheses](https://leetcode.com/problems/valid-parentheses) <br>
+[container-with-most-water](https://leetcode.com/problems/container-with-most-water) <br>
+[string-to-integer](https://leetcode.com/problems/string-to-integer) <br>
+[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion) <br>
