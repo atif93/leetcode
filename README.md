@@ -16,3 +16,5 @@ https://leetcode.com/atif93/
 [container-with-most-water](https://leetcode.com/problems/container-with-most-water) <br>
 [string-to-integer](https://leetcode.com/problems/string-to-integer) <br>
 [zigzag-conversion](https://leetcode.com/problems/zigzag-conversion) <br>
+[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists) <br>
+[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array) <br>
