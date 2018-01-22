@@ -18,3 +18,4 @@ https://leetcode.com/atif93/
 [zigzag-conversion](https://leetcode.com/problems/zigzag-conversion) <br>
 [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists) <br>
 [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array) <br>
+[merge-intervals](https://leetcode.com/problems/merge-intervals/) <br>
