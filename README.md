@@ -19,3 +19,5 @@ https://leetcode.com/atif93/
 [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists) <br>
 [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array) <br>
 [merge-intervals](https://leetcode.com/problems/merge-intervals/) <br>
+[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) <br>
+[remove-element](https://leetcode.com/problems/remove-element/description/) <br>
