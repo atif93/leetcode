@@ -1,1 +1,15 @@
+[create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order) <br>
+[decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list) <br>
+[defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address) <br>
+[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) <br>
+[how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) <br>
+[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones) <br>
+[kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) <br>
+[number-of-good-pairs](https://leetcode.com/problems/number-of-good-pairs) <br>
+[number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) <br>
 [running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array) <br>
+[shuffle-string](https://leetcode.com/problems/shuffle-string) <br>
+[shuffle-the-array](https://leetcode.com/problems/shuffle-the-array) <br>
+[split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) <br>
+[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) <br>
+[xor-operation-in-an-array](https://leetcode.com/problems/xor-operation-in-an-array) <br>
